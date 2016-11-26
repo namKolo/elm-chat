@@ -14,5 +14,6 @@ This will be client for grpc app chat
 
 ## To Do List
 
-[] SCSS config
-[] update soon
+- [ ] SCSS config
+
+- [ ] update soon
